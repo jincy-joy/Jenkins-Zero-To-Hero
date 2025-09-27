@@ -36,7 +36,7 @@ Argo CD (for GitOps-based continuous deployment)
  ## About
 
 This project is part of my DevOps learning journey.
-The base idea came from a training repo, but I customized, integrated, and deployed everything independently.
+The base idea came from a training repo(https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero.git), but I customized, integrated, and deployed everything independently.
 
 ## Steps Followed in My CI/CD Project
 
